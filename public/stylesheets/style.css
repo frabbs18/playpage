@@ -1,0 +1,37 @@
+body {
+  padding: 20px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.area-top-padding {
+  padding-top: 15px;
+}
+
+a {
+  color: rgb(0, 4, 255);
+}
+
+
+.btn:focus, .btn:active, button:focus, button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#image-gallery .modal-footer{
+  display: block;
+}
+
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.window-grey {
+  background-color: #EDEDED;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  border-radius: 20px;
+  border-color:#d2d2d2;
+  border-width: 15px;
+  box-shadow:11px 11px 11px #cfcfcf;
+}
